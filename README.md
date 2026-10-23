@@ -19,7 +19,7 @@ I have integrated and tested a wide range of exogenous features. So far, the bes
 
 ## 🚧 Work in Progress & Current Bottleneck
 > 💡 **I seem to have hit a wall at the moment.** 
-> While the current setup does a good-ish job, this is highly experimental and needs structural and performance improvements. I get rather large MAE and RMSE (respectfully 0.5 & 0.67 with SARIMAX and 0.41 & 0.53 with MARS.
+> While the current setup does a good-ish job, this is highly experimental and needs structural and performance improvements. I get rather large MAE and RMSE (respectfully 0.5 & 0.67 with SARIMAX and 0.41 & 0.53 with MARS).
 
 ---
 
