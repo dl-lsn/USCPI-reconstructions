@@ -1,9 +1,5 @@
 # 📈 USCPI-reconstruction & Forecast
 
-[![Python](https://shields.io)](https://python.org)
-[![GitHub Discussions](https://shields.io)](https://github.com)
-[![Contributions Welcome](https://shields.io)](https://github.com)
-
 Reconstructing U.S. CPI-U from detailed component indexes and historical expenditure weights using Python. This project also features a custom-built forecast model for US CPI.
 
 ---
